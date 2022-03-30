@@ -8,7 +8,7 @@ To master complexity, we can organize it or discard it. _The Art of Insight in S
 
 The complete book is provided as a free download (License CC BY-NC-SA), courtesy of Sanjoy Mahajan and MIT Press.
 
-*   [_The Art of Insight in Science and Engineering: Mastering Complexity (PDF - 7.9MB)_](/resources/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/online-textbook/MITRES_6-011F14_art_insfin.pdf)
+*   {{% resource_link "3bca8503-86a3-005c-2213-4fa62fb3bad5" "_The Art of Insight in Science and Engineering: Mastering Complexity (PDF - 7.9MB)_" %}}
 
 The book is also available in paperback for purchase:
 
